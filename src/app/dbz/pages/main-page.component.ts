@@ -8,7 +8,7 @@ import { DbzService } from '../services/dbz.service';
   templateUrl: './main-page.component.html',
 
 })
-
+// console.log('hola');
 export class MainPageComponent  {
 
   constructor(private dbzService:DbzService){
